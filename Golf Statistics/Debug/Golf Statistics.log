@@ -1,0 +1,16 @@
+﻿Build started 11/5/2015 6:07:08 PM.
+     1>Project "C:\Users\Tommy\Documents\Visual Studio 2015\Projects\Golf Statistics\Golf Statistics\Golf Statistics.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"Debug\\" /Fd"Debug\vc140.pdb" /Gd /TP /analyze- /errorReport:prompt Source.cpp
+         Source.cpp
+     1>c:\users\tommy\documents\visual studio 2015\projects\golf statistics\golf statistics\source.cpp(1): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+     1>c:\users\tommy\documents\visual studio 2015\projects\golf statistics\golf statistics\source.cpp(2): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+     1>c:\users\tommy\documents\visual studio 2015\projects\golf statistics\golf statistics\source.cpp(3): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+       Link:
+         C:\Program Files (x86)\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Tommy\Documents\Visual Studio 2015\Projects\Golf Statistics\Debug\Golf Statistics.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /Debug /PDB:"C:\Users\Tommy\Documents\Visual Studio 2015\Projects\Golf Statistics\Debug\Golf Statistics.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\Tommy\Documents\Visual Studio 2015\Projects\Golf Statistics\Debug\Golf Statistics.lib" /MACHINE:X86 Debug\Source.obj
+         Golf Statistics.vcxproj -> C:\Users\Tommy\Documents\Visual Studio 2015\Projects\Golf Statistics\Debug\Golf Statistics.exe
+     1>Done Building Project "C:\Users\Tommy\Documents\Visual Studio 2015\Projects\Golf Statistics\Golf Statistics\Golf Statistics.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:01.26
